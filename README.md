@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/jenssgb/PromptPrompter-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jenssgb/PromptPrompter-releases?label=download&style=for-the-badge&t=1" alt="Download latest release">
+    <img src="https://img.shields.io/badge/download-v1.2.7-blue?style=for-the-badge" alt="Download latest release">
   </a>
 </p>
 
